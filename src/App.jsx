@@ -7,9 +7,9 @@ function App() {
   const [response, setResponse] = useState(null) // null | 'accepted' | 'notAccepted'
 
   const headerText = {
-    null: "I'm Really Sorry, Ginni",
-    accepted: "Thank You, Ginni 💖",
-    notAccepted: "I Understand, Ginni",
+    null: "I'm Really Sorry, Ginnii",
+    accepted: "Thank You, Ginnii 💖",
+    notAccepted: "I Understand, Ginnii",
   }
 
   // Change state first, then send email async (don’t block UI)
