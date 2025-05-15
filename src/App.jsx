@@ -122,7 +122,7 @@ function App() {
                   onClick={() => handleResponse('accepted')}
                   className="bg-pink-600 hover:bg-pink-700 text-white font-semibold py-2 px-6 rounded-full transition duration-300 shadow-lg"
                 >
-                  Accept My Apology
+                  Accept Apology
                 </button>
                 <button
                   onClick={() => handleResponse('notAccepted')}
